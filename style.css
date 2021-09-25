@@ -1,0 +1,95 @@
+body{
+    background:bisque;
+}
+.case_study_img{
+    width: 300;
+    height: 170;
+}
+
+#head_img_div{
+    text-align: center;
+}
+
+#design{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.design_h4{
+    font-family: cursive;
+    color:cadetblue;
+}
+
+.design_b2{
+    color: darkslateblue;
+}
+
+.result{
+    background-color: lightgrey;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25;
+    color:cadetblue;
+    width: 1275px;
+    border-radius: 35px;
+}
+
+#bag{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#bottle{
+    width: 300px;
+    height: 350x;
+    border-radius: 20px;
+}
+
+#chair{
+    width: 300px;
+    height: 320px;
+    border-radius: 20px;
+}
+
+#comb{
+    width: 275px;
+    height: 320px;
+    border-radius: 20px;
+}
+
+#dumble{
+    width: 320px;
+    height: 275px;
+    border-radius: 20px;
+}
+
+#glue_stick{
+    width: 275px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+#hat{
+    width: 320px;
+    height: 275px;
+    border-radius: 20px;
+}
+
+#pen{
+    width: 275px;
+    height: 320px;
+    border-radius: 20px;
+}
+
+#pencil_pouch{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#stapler{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
